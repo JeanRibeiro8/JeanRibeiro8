@@ -87,17 +87,13 @@ I'm currently expanding my skills in **React, TypeScript and REST APIs**, with t
 ### Take a look at my work
 
 <p align="center">
-  <img src="./src/img/website.gif" width="850" alt="Jean Ribeiro portfolio preview" />
-</p>
-
-<p align="center">
   <a href="https://jeanribeiro8.github.io/JeanRibeiro/">
     <strong>🌐 Visit My Portfolio →</strong>
   </a>
 </p>
 
 <p align="center">
-  <img src="./src/img/picture-website.png" width="850" alt="Jean Ribeiro portfolio screenshot" />
+  <img src="./picture-website.png" width="850" alt="Jean Ribeiro portfolio screenshot" />
 </p>
 
 ---
