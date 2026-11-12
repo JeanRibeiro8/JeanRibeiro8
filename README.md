@@ -89,6 +89,8 @@ Conheça meus projetos e acompanhe meu trabalho:
   </a>
 </p>
 
+ <img src="./picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
+
 ---
 
 # 🚀 Projetos em Destaque
