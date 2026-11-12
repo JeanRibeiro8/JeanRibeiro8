@@ -4,24 +4,23 @@
 
 🇧🇷 Lorena, São Paulo, Brasil · 🎯 Em busca de oportunidades profissionais no Brasil
 
-Sou Desenvolvedor Full Stack Júnior, com formação técnica em Computação para Internet e foco no desenvolvimento de aplicações web modernas e APIs REST.
+Sou Desenvolvedor Full Stack Júnior, com formação técnica em Computação para Internet e foco no desenvolvimento de aplicações web modernas.
 
-Tenho uma base sólida em desenvolvimento frontend com **React, TypeScript e JavaScript**, além de experiência prática na criação de interfaces responsivas, componentes reutilizáveis e integração com APIs REST.
+Tenho uma base sólida em desenvolvimento frontend com **React, TypeScript e JavaScript**, além de experiência prática na construção de interfaces responsivas, componentes reutilizáveis e integração com APIs REST.
 
-Também estou desenvolvendo minhas habilidades em backend com **Python, FastAPI e PostgreSQL**, por meio de projetos pessoais envolvendo desenvolvimento de APIs, autenticação, gerenciamento de dados e segurança.
+Também desenvolvo minhas habilidades em backend com **Python, FastAPI e PostgreSQL**, criando APIs REST com funcionalidades de autenticação, gerenciamento de dados e validação.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💻 Foco em Desenvolvimento Full Stack e Web
-- 🎓 Técnico em Computação para Internet
-- 🇧🇷 Em busca de oportunidades profissionais no Brasil
-- 🧩 Interesse em interfaces responsivas e intuitivas
-- ⚛️ Experiência prática com React, TypeScript e JavaScript
-- 🐍 Desenvolvendo projetos backend com Python e FastAPI
-- 🗄️ Trabalhando com PostgreSQL e desenvolvimento de APIs REST
-- 🔧 Desenvolvendo projetos pessoais para aprimorar minhas habilidades
+- 💻 Foco em Desenvolvimento Full Stack e Web.
+- 🎓 Técnico em Computação para Internet.
+- ⚛️ Desenvolvimento frontend com React, TypeScript e JavaScript.
+- 🐍 Desenvolvimento backend com Python e FastAPI.
+- 🗄️ Experiência prática com PostgreSQL e APIs REST.
+- 🔧 Desenvolvimento de projetos pessoais para aprimorar minhas habilidades.
+- 🇧🇷 Em busca da primeira oportunidade profissional no mercado brasileiro.
 
 ---
 
@@ -30,215 +29,151 @@ Também estou desenvolvendo minhas habilidades em backend com **Python, FastAPI 
 ### Frontend
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </div>
 
 ### Backend
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </div>
 
-### Ferramentas
+### Ferramentas e Práticas
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
+
+- Git e GitHub
+- Docker e Docker Compose
+- Swagger UI / OpenAPI
+- Pytest
+- Testes de APIs REST
+- Documentação técnica
 
 ### 📚 Em Desenvolvimento
 
-- SQLAlchemy e integração com bancos de dados em Python
-- Arquitetura backend e desenvolvimento de APIs
-- Testes automatizados e segurança de aplicações
-
-**Ferramentas e práticas:** PostgreSQL · Docker · Docker Compose · Swagger UI · Pytest · Git
+- SQLAlchemy e integração com bancos de dados em Python.
+- Arquitetura backend e organização de APIs.
+- Testes automatizados e segurança de aplicações.
 
 ---
 
-# 🌐 Meu Portfólio
+## 🌐 Meu Portfólio
 
-### Conheça meus projetos
-
-<p align="center">
-  <img src="./src/img/website.gif" width="850" alt="Prévia do portfólio de Jean Ribeiro" />
-</p>
+Conheça meus projetos e acompanhe meu trabalho:
 
 <p align="center">
   <a href="https://jeanribeiro8.github.io/JeanRibeiro/">
-    <strong>🌐 Acessar meu portfólio →</strong>
+    <strong>🌐 Acessar meu portfólio</strong>
   </a>
-</p>
-
-<p align="center">
-  <img src="./src/img/picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
-  <img src="./picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
 </p>
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## 🎓 TecSchool
+Projetos pessoais que demonstram minha experiência prática com desenvolvimento frontend, gerenciamento de estado, análise de código e construção de aplicações web.
 
-**Tecnologias:** HTML · CSS · JavaScript · Bootstrap
+## 🏢 OpsHub — Dashboard de Gestão Empresarial
 
-Site responsivo para uma escola de tecnologia, desenvolvido com foco em design responsivo, organização de layouts e elementos interativos.
+**Tecnologias:** React · TypeScript · Vite · React Router
 
-🌐 **Demonstração:**  
-https://jeanribeiro8.github.io/TecSchool/
+Dashboard de operações empresariais desenvolvido para centralizar informações e funcionalidades de gestão em uma única interface.
 
----
+- Organização de áreas como usuários, equipes, projetos e tarefas.
+- Painéis de relatórios, auditoria e configurações.
+- Navegação entre seções utilizando React Router.
+- Interface desenvolvida com React e TypeScript.
 
-## 🔥 Blaze Agência
+## 📊 DevInsight — Dashboard de Análise de Engenharia
 
-**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
+**Tecnologias:** React · TypeScript · Recharts
 
-Site responsivo para uma agência de marketing, com interface moderna, apresentação de serviços, chamadas para ação e navegação adaptável.
+Dashboard voltado à apresentação de indicadores e informações relacionadas ao desenvolvimento de software.
 
-🌐 **Demonstração:**  
-https://blazeagencia.netlify.app/
+- Visualização de métricas e indicadores por meio de gráficos.
+- Organização de informações em painéis analíticos.
+- Recomendações demonstrativas na seção de AI Insights.
+- Gerenciamento de estado e dados na interface com React.
 
----
-
-## 🦷 BrightSmile
-
-**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
-
-Site responsivo para uma clínica odontológica, com foco em interface moderna, apresentação de serviços, contato e chamadas para ação.
-
-🌐 **Demonstração:**  
-https://brightsmlle.netlify.app/
-
----
-
-## 💼 Nexus Consulting
-
-**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
-
-Site institucional responsivo desenvolvido para apresentar informações e serviços de uma empresa por meio de uma interface moderna.
-
-🌐 **Demonstração:**  
-https://nexusconsultin.netlify.app/
-
----
+*Observação: os dados e recomendações de IA são demonstrativos, sem integração com uma API real de inteligência artificial.*
 
 ## 💼 Jobly — Plataforma de Busca de Empregos
 
 **Tecnologias:** React · TypeScript · Vite · APIs REST
 
-Aplicação frontend para pesquisar e visualizar oportunidades de emprego.
+Aplicação frontend para pesquisa e visualização de oportunidades de emprego.
 
-- Pesquisa, filtros e paginação.
-- Integração com APIs REST e tratamento de estados de carregamento e erro.
-- Componentes reutilizáveis e interfaces organizadas.
+- Pesquisa de vagas e filtros.
+- Paginação de resultados.
+- Integração com APIs REST.
+- Tratamento de estados de carregamento e erro.
+- Componentes reutilizáveis e organização da interface.
 
 **Status:** Concluído · 2026
 
----
+## 🛒 Redux Shopping Cart — Carrinho de Compras
 
-## 📊 API Monitor — Monitoramento de APIs
+**Tecnologias:** React · TypeScript · Redux Toolkit · React Router · Jest · React Testing Library
 
-**Tecnologias:** Python · FastAPI · PostgreSQL · Docker · Docker Compose · Pytest
+Aplicação de carrinho de compras desenvolvida para praticar gerenciamento de estado global com Redux Toolkit.
 
-API REST para cadastrar e gerenciar serviços HTTP monitorados.
+- Gerenciamento centralizado do estado da aplicação.
+- Utilização de React e TypeScript na construção da interface.
+- Navegação com React Router.
+- Testes automatizados com Jest e React Testing Library.
 
-- Verificação de disponibilidade, status HTTP e tempo de resposta.
-- Histórico de verificações e armazenamento de informações.
-- Docker Compose para execução dos componentes da aplicação.
-- Validação de endpoints por meio do Swagger UI e testes práticos.
+**Repositório:** [GitHub — Redux Shopping Cart](https://github.com/JeanRibeiro8/redux-shopping-cart)
 
-**Status:** Em desenvolvimento · 2026
+## 🔍 CodeLens — Analisador de Código
 
-🌐 **Repositório:**  
-https://github.com/JeanRibeiro8/api-monitor
+**Tecnologias:** React · TypeScript · TypeScript Compiler API
 
----
+Ferramenta para análise estática de código JavaScript e TypeScript, com foco na identificação de problemas e apresentação de métricas.
 
-## 🔐 SecureAuth API — Autenticação e Segurança
+- Análise de código utilizando a Abstract Syntax Tree (AST).
+- Identificação de problemas e classificação por severidade.
+- Métricas de código e complexidade ciclomática.
+- Sugestões para auxiliar na melhoria da qualidade do código.
 
-**Tecnologias:** Python · FastAPI · PostgreSQL · JWT · Argon2id
+**Demonstração:** [Acessar CodeLens](https://codelens-sepia-eight.vercel.app/)
 
-API REST voltada ao cadastro, autenticação e gerenciamento de usuários.
-
-- Autenticação baseada em JWT e endpoints protegidos.
-- Hash de senhas utilizando Argon2id.
-- Gerenciamento de contas e validação de credenciais.
-
-**Status:** Em desenvolvimento · 2026
+**Repositório:** [GitHub — CodeLens](https://github.com/JeanRibeiro8/codelens)
 
 ---
 
-## 📋 TaskFlow API — Gerenciamento de Tarefas
+## 🎯 Objetivos Profissionais
 
-**Tecnologias:** Python · FastAPI · PostgreSQL · Pydantic
+Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento de software, com foco em **Desenvolvimento Full Stack**.
 
-API REST para gerenciamento e organização de tarefas.
+Meu objetivo é participar de projetos reais, colaborar com equipes de desenvolvimento e continuar aprimorando minhas habilidades em tecnologias frontend e backend.
 
-- Operações CRUD para gerenciamento de tarefas.
-- Filtros por status e prioridade, pesquisa e paginação.
-- Validação de dados e estruturação de endpoints.
-- Documentação automática da API para testes dos endpoints.
-
-**Status:** Em desenvolvimento · 2026
+Tenho interesse em oportunidades no mercado brasileiro, especialmente em posições que envolvam **React, TypeScript, JavaScript, Python e FastAPI**.
 
 ---
 
-# 🎯 Objetivos Profissionais
-
-Atualmente, estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software, com foco em **Desenvolvimento Full Stack**.
-
-Meu objetivo é atuar em projetos reais, contribuir com equipes de desenvolvimento e continuar aprimorando minhas habilidades em tecnologias frontend e backend.
-
-Tenho interesse em oportunidades no **mercado brasileiro**, especialmente em posições que envolvam **React, TypeScript, JavaScript, Python e FastAPI**.
-
----
-
-# 🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
 ### Técnico em Computação para Internet
 
@@ -248,41 +183,29 @@ Tenho interesse em oportunidades no **mercado brasileiro**, especialmente em pos
 
 ---
 
-# 🌎 Idiomas
+## 🌎 Idiomas
 
-🇧🇷 **Português** — Nativo
+- 🇧🇷 **Português:** Nativo.
+- 🇺🇸 **Inglês:** A2+ (Básico).
 
-🇺🇸 **Inglês** — A2+ (Básico)
-
-Atualmente aprimorando minhas habilidades de comunicação em inglês, com foco em comunicação profissional e técnica.
+Atualmente aprimorando minhas habilidades de comunicação em inglês, com foco em contextos profissionais e técnicos.
 
 ---
 
-# 🌎 Entre em Contato
+## 📫 Entre em Contato
 
 <div align="left">
-
-<a href="https://www.linkedin.com/in/jean-ribeiro-9a3792267">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Jean%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/JeanRibeiro8">
-  <img
-    src="https://img.shields.io/badge/GitHub-JeanRibeiro8-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/jean-ribeiro-9a3792267">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JeanRibeiro8">
+    <img src="https://img.shields.io/badge/GitHub-JeanRibeiro8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-📧 **E-mail:**  
-jeanrsantos10@gmail.com
+📧 **E-mail:** jeanrsantos10@gmail.com
 
-🌐 **Portfólio:**  
-https://jeanribeiro8.github.io/JeanRibeiro/
+🌐 **Portfólio:** [jeanribeiro8.github.io/JeanRibeiro](https://jeanribeiro8.github.io/JeanRibeiro/)
 
 ---
 
