@@ -1,158 +1,291 @@
- <div align="center">
+# 👋 Olá, eu sou Jean Ribeiro
 
-# Hi, I'm Jean Ribeiro
+### 💻 Desenvolvedor Full Stack Júnior
 
-### Junior Full Stack Developer
+🇧🇷 Lorena, São Paulo, Brasil · 🎯 Em busca de oportunidades profissionais no Brasil
 
-Building web applications with React, TypeScript, JavaScript, Python and FastAPI.
+Sou Desenvolvedor Full Stack Júnior, com formação técnica em Computação para Internet e foco no desenvolvimento de aplicações web modernas e APIs REST.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square)](https://jeanribeiro8.github.io/JeanRibeiro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jean-ribeiro-9a3792267/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeanrsantos10@gmail.com)
+Tenho uma base sólida em desenvolvimento frontend com **React, TypeScript e JavaScript**, além de experiência prática na criação de interfaces responsivas, componentes reutilizáveis e integração com APIs REST.
+
+Também estou desenvolvendo minhas habilidades em backend com **Python, FastAPI e PostgreSQL**, por meio de projetos pessoais envolvendo desenvolvimento de APIs, autenticação, gerenciamento de dados e segurança.
+
+---
+
+## 🚀 Sobre Mim
+
+- 💻 Foco em Desenvolvimento Full Stack e Web
+- 🎓 Técnico em Computação para Internet
+- 🇧🇷 Em busca de oportunidades profissionais no Brasil
+- 🧩 Interesse em interfaces responsivas e intuitivas
+- ⚛️ Experiência prática com React, TypeScript e JavaScript
+- 🐍 Desenvolvendo projetos backend com Python e FastAPI
+- 🗄️ Trabalhando com PostgreSQL e desenvolvimento de APIs REST
+- 🔧 Desenvolvendo projetos pessoais para aprimorar minhas habilidades
+
+---
+
+## 🛠️ Tecnologias
+
+### Frontend
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
 
 </div>
 
----
+### Backend
 
-## About Me
+<div align="left">
 
-I'm a Junior Full Stack Developer focused on building web applications and REST APIs.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img width="10" />
 
-My main frontend technologies are **React, TypeScript and JavaScript**, with practical experience developing responsive interfaces, reusable components and integrating REST APIs.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+<img width="10" />
 
-I'm also developing my backend skills with **Python, FastAPI and PostgreSQL**, building personal projects involving API development, authentication, data management and security.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 
-I enjoy learning independently, exploring technical documentation and using AI tools to support development, code analysis and debugging.
+</div>
 
-Currently focused on improving my full stack development skills and building practical projects for my portfolio.
+### Ferramentas
 
-## Technical Skills
+<div align="left">
 
-**Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="10" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="10" />
 
-**Backend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img width="10" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+<img width="10" />
 
-**Database**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
-**Tools & Practices**
+### 📚 Em Desenvolvimento
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+- SQLAlchemy e integração com bancos de dados em Python
+- Arquitetura backend e desenvolvimento de APIs
+- Testes automatizados e segurança de aplicações
 
-**Currently Learning**
-
-- SQLAlchemy and database integration with Python.
-- Backend architecture and API development.
-- Automated testing and application security.
-
-## Featured Projects
-
-### Jobly — Job Search Platform
-
-**React · TypeScript · Vite · REST APIs**
-
-A frontend application for searching and exploring professional opportunities.
-
-- Implemented job search, filtering and pagination.
-- Integrated REST APIs and handled loading and error states.
-- Built reusable components and organized application interfaces.
-
-**Status:** Completed
+**Ferramentas e práticas:** PostgreSQL · Docker · Docker Compose · Swagger UI · Pytest · Git
 
 ---
 
-### API Monitor — API Monitoring
+# 🌐 Meu Portfólio
 
-**Python · FastAPI · PostgreSQL · Docker · Pytest**
+### Conheça meus projetos
 
-A REST API for registering and managing HTTP services, checking availability and tracking monitoring history.
+<p align="center">
+  <img src="./src/img/website.gif" width="850" alt="Prévia do portfólio de Jean Ribeiro" />
+</p>
 
-- Implemented monitor management and manual availability checks.
-- Recorded HTTP status codes and response times.
-- Structured persistent monitoring history.
-- Used Docker Compose to manage the application environment.
+<p align="center">
+  <a href="https://jeanribeiro8.github.io/JeanRibeiro/">
+    <strong>🌐 Acessar meu portfólio →</strong>
+  </a>
+</p>
 
-**Status:** In Development
-
-[Repository](https://github.com/JeanRibeiro8/api-monitor)
-
----
-
-### SecureAuth API — Authentication & Security
-
-**Python · FastAPI · PostgreSQL · JWT · Argon2id**
-
-A REST API focused on user registration, authentication and account management.
-
-- Implemented JWT-based authentication.
-- Developed protected endpoints.
-- Worked with password hashing using Argon2id.
-- Built user account management and credential validation features.
-
-**Status:** In Development
+<p align="center">
+  <img src="./src/img/picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
+  <img src="./picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
+</p>
 
 ---
 
-### TaskFlow API — Task Management
+# 🚀 Projetos em Destaque
 
-**Python · FastAPI · PostgreSQL · Pydantic**
+## 🎓 TecSchool
 
-A REST API for task management and data organization.
+**Tecnologias:** HTML · CSS · JavaScript · Bootstrap
 
-- Implemented CRUD operations.
-- Developed filtering by status and priority.
-- Added search and pagination functionality.
-- Used Pydantic for data validation and API documentation for endpoint testing.
+Site responsivo para uma escola de tecnologia, desenvolvido com foco em design responsivo, organização de layouts e elementos interativos.
 
-**Status:** In Development
+🌐 **Demonstração:**  
+https://jeanribeiro8.github.io/TecSchool/
 
-## Education
+---
 
-**Technical Degree in Internet Computing**
+## 🔥 Blaze Agência
 
-Etec Padre Carlos Leôncio da Silva
+**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
+
+Site responsivo para uma agência de marketing, com interface moderna, apresentação de serviços, chamadas para ação e navegação adaptável.
+
+🌐 **Demonstração:**  
+https://blazeagencia.netlify.app/
+
+---
+
+## 🦷 BrightSmile
+
+**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
+
+Site responsivo para uma clínica odontológica, com foco em interface moderna, apresentação de serviços, contato e chamadas para ação.
+
+🌐 **Demonstração:**  
+https://brightsmlle.netlify.app/
+
+---
+
+## 💼 Nexus Consulting
+
+**Tecnologias:** HTML · CSS · JavaScript · Tailwind CSS
+
+Site institucional responsivo desenvolvido para apresentar informações e serviços de uma empresa por meio de uma interface moderna.
+
+🌐 **Demonstração:**  
+https://nexusconsultin.netlify.app/
+
+---
+
+## 💼 Jobly — Plataforma de Busca de Empregos
+
+**Tecnologias:** React · TypeScript · Vite · APIs REST
+
+Aplicação frontend para pesquisar e visualizar oportunidades de emprego.
+
+- Pesquisa, filtros e paginação.
+- Integração com APIs REST e tratamento de estados de carregamento e erro.
+- Componentes reutilizáveis e interfaces organizadas.
+
+**Status:** Concluído · 2026
+
+---
+
+## 📊 API Monitor — Monitoramento de APIs
+
+**Tecnologias:** Python · FastAPI · PostgreSQL · Docker · Docker Compose · Pytest
+
+API REST para cadastrar e gerenciar serviços HTTP monitorados.
+
+- Verificação de disponibilidade, status HTTP e tempo de resposta.
+- Histórico de verificações e armazenamento de informações.
+- Docker Compose para execução dos componentes da aplicação.
+- Validação de endpoints por meio do Swagger UI e testes práticos.
+
+**Status:** Em desenvolvimento · 2026
+
+🌐 **Repositório:**  
+https://github.com/JeanRibeiro8/api-monitor
+
+---
+
+## 🔐 SecureAuth API — Autenticação e Segurança
+
+**Tecnologias:** Python · FastAPI · PostgreSQL · JWT · Argon2id
+
+API REST voltada ao cadastro, autenticação e gerenciamento de usuários.
+
+- Autenticação baseada em JWT e endpoints protegidos.
+- Hash de senhas utilizando Argon2id.
+- Gerenciamento de contas e validação de credenciais.
+
+**Status:** Em desenvolvimento · 2026
+
+---
+
+## 📋 TaskFlow API — Gerenciamento de Tarefas
+
+**Tecnologias:** Python · FastAPI · PostgreSQL · Pydantic
+
+API REST para gerenciamento e organização de tarefas.
+
+- Operações CRUD para gerenciamento de tarefas.
+- Filtros por status e prioridade, pesquisa e paginação.
+- Validação de dados e estruturação de endpoints.
+- Documentação automática da API para testes dos endpoints.
+
+**Status:** Em desenvolvimento · 2026
+
+---
+
+# 🎯 Objetivos Profissionais
+
+Atualmente, estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software, com foco em **Desenvolvimento Full Stack**.
+
+Meu objetivo é atuar em projetos reais, contribuir com equipes de desenvolvimento e continuar aprimorando minhas habilidades em tecnologias frontend e backend.
+
+Tenho interesse em oportunidades no **mercado brasileiro**, especialmente em posições que envolvam **React, TypeScript, JavaScript, Python e FastAPI**.
+
+---
+
+# 🎓 Formação Acadêmica
+
+### Técnico em Computação para Internet
+
+**ETEC Padre Carlos Leôncio da Silva**
 
 2021 – 2023
 
-## Soft Skills
+---
 
-- Communication
-- Collaboration
-- Organization
-- Self-directed Learning
+# 🌎 Idiomas
 
-## Languages
+🇧🇷 **Português** — Nativo
 
-- Portuguese — Native
-- English — A2+ (Elementary / Pre-intermediate)
+🇺🇸 **Inglês** — A2+ (Básico)
+
+Atualmente aprimorando minhas habilidades de comunicação em inglês, com foco em comunicação profissional e técnica.
 
 ---
 
-<div align="center">
+# 🌎 Entre em Contato
 
-### Let's Connect
+<div align="left">
 
-[GitHub](https://github.com/JeanRibeiro8) · [LinkedIn](https://www.linkedin.com/in/jean-ribeiro-9a3792267/) · [Portfolio](https://jeanribeiro8.github.io/JeanRibeiro/) · [Email](mailto:jeanrsantos10@gmail.com)
+<a href="https://www.linkedin.com/in/jean-ribeiro-9a3792267">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Jean%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-*Always learning, building and improving.*
+<a href="https://github.com/JeanRibeiro8">
+  <img
+    src="https://img.shields.io/badge/GitHub-JeanRibeiro8-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 </div>
+
+📧 **E-mail:**  
+jeanrsantos10@gmail.com
+
+🌐 **Portfólio:**  
+https://jeanribeiro8.github.io/JeanRibeiro/
+
+---
+
+<p align="center">
+  <i>Sempre aprendendo, desenvolvendo e evoluindo.</i>
+</p>
