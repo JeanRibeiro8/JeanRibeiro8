@@ -1,29 +1,26 @@
-
 # 👋 Olá, eu sou Jean Ribeiro
 
-### 💻 Desenvolvedor Front-end Júnior
+### 💻 Desenvolvedor Full Stack Júnior
 
 🇧🇷 Lorena, São Paulo, Brasil · 🎯 Em busca de oportunidades profissionais no Brasil
 
-Sou Desenvolvedor Front-end Júnior, com formação técnica em Computação para Internet e foco na construção de aplicações web modernas e responsivas.
+Sou Desenvolvedor Full Stack Júnior, com formação técnica em Computação para Internet e foco no desenvolvimento de aplicações web modernas.
 
-Tenho experiência prática em projetos utilizando **React, TypeScript e JavaScript**, desenvolvendo interfaces responsivas, componentes reutilizáveis, gerenciamento de estado e integração com APIs REST.
+Tenho uma base sólida em desenvolvimento frontend com **React, TypeScript e JavaScript**, além de experiência prática na construção de interfaces responsivas, componentes reutilizáveis e integração com APIs REST.
 
-Também possuo conhecimentos em desenvolvimento backend com **Python, FastAPI e PostgreSQL**, incluindo construção de APIs REST, autenticação, gerenciamento de dados e validação.
+Também desenvolvo minhas habilidades em backend com **Python, FastAPI e PostgreSQL**, criando APIs REST com funcionalidades de autenticação, gerenciamento de dados e validação.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💻 Foco em Desenvolvimento Front-end e aplicações Web.
+- 💻 Foco em Desenvolvimento Full Stack e Web.
 - 🎓 Técnico em Computação para Internet.
 - ⚛️ Desenvolvimento frontend com React, TypeScript e JavaScript.
-- 🎨 Construção de interfaces responsivas e componentes reutilizáveis.
-- 🔗 Integração com APIs REST e gerenciamento de estado.
-- 🐍 Conhecimentos em desenvolvimento backend com Python e FastAPI.
+- 🐍 Desenvolvimento backend com Python e FastAPI.
 - 🗄️ Experiência prática com PostgreSQL e APIs REST.
 - 🔧 Desenvolvimento de projetos pessoais para aprimorar minhas habilidades.
-- 🇧🇷 Em busca da primeira oportunidade profissional como Desenvolvedor Front-end Júnior.
+- 🇧🇷 Em busca da primeira oportunidade profissional no mercado brasileiro.
 
 ---
 
@@ -79,7 +76,6 @@ Também possuo conhecimentos em desenvolvimento backend com **Python, FastAPI e 
 - SQLAlchemy e integração com bancos de dados em Python.
 - Arquitetura backend e organização de APIs.
 - Testes automatizados e segurança de aplicações.
-- Aprimoramento de técnicas de desenvolvimento Front-end.
 
 ---
 
@@ -93,13 +89,13 @@ Conheça meus projetos e acompanhe meu trabalho:
   </a>
 </p>
 
-<img src="./picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
+ <img src="./picture-website.png" width="850" alt="Captura de tela do portfólio de Jean Ribeiro" />
 
 ---
 
 # 🚀 Projetos em Destaque
 
-Projetos pessoais que demonstram minha experiência prática com desenvolvimento frontend, construção de interfaces, integração com APIs, gerenciamento de estado e análise de código.
+Projetos pessoais que demonstram minha experiência prática com desenvolvimento frontend, gerenciamento de estado, análise de código e construção de aplicações web.
 
 ## 🏢 OpsHub — Dashboard de Gestão Empresarial
 
@@ -171,11 +167,11 @@ Ferramenta para análise estática de código JavaScript e TypeScript, com foco 
 
 ## 🎯 Objetivos Profissionais
 
-Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento de software, com foco em **Desenvolvimento Front-end Júnior**.
+Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento de software, com foco em **Desenvolvimento Full Stack**.
 
-Meu objetivo é participar de projetos reais, colaborar com equipes de desenvolvimento e continuar aprimorando minhas habilidades em React, TypeScript, JavaScript e desenvolvimento de aplicações web.
+Meu objetivo é participar de projetos reais, colaborar com equipes de desenvolvimento e continuar aprimorando minhas habilidades em tecnologias frontend e backend.
 
-Também tenho interesse em oportunidades Full Stack, aproveitando meus conhecimentos complementares em **Python, FastAPI, PostgreSQL e APIs REST**.
+Tenho interesse em oportunidades no mercado brasileiro, especialmente em posições que envolvam **React, TypeScript, JavaScript, Python e FastAPI**.
 
 ---
 
@@ -186,12 +182,6 @@ Também tenho interesse em oportunidades Full Stack, aproveitando meus conhecime
 **ETEC Padre Carlos Leôncio da Silva**
 
 2021 – 2023
-
-### Análise e Desenvolvimento de Sistemas
-
-**Uninter**
-
-Em andamento
 
 ---
 
